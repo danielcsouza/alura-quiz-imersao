@@ -28,6 +28,7 @@ Você pode dar uma olhada nesse link e separar uma palheta que combine com sua i
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<!--
 <table>
   <tr>
     <td align="center"><a href="http://youtube.com/c/DevSoutinho"><img src="https://avatars.githubusercontent.com/u/13791385?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mario Souto</b></sub></a><br /><a href="https://github.com/alura-challenges/aluraquiz-base/commits?author=omariosouto" title="Code">💻</a></td>
@@ -37,6 +38,9 @@ Você pode dar uma olhada nesse link e separar uma palheta que combine com sua i
     <td align="center"><a href="http://dailyfriend.com.br"><img src="https://avatars.githubusercontent.com/u/46327961?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Higor Oliveira</b></sub></a><br /><a href="#example-higorpo" title="Examples">💡</a></td>
   </tr>
 </table>
+-->
+
+
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
